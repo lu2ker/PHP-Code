@@ -6,3 +6,5 @@
 
 接下来开始学习**七月火**大佬的TP审计分析
 
+[ThinkPHP5 之 SQLI审计分析](https://github.com/lu2ker/Study-notes/blob/main/ThinkPHP5%20%E4%B9%8B%20SQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90.md)
+
