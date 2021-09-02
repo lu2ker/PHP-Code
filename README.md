@@ -8,3 +8,4 @@
 
 [ThinkPHP5 之 SQLI审计分析](https://github.com/lu2ker/Study-notes/blob/main/ThinkPHP5%20%E4%B9%8B%20SQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90.md)
 
+小思考：感觉代码审计就两个步骤，①如何跳过某段代码。②如何进入某段代码。
