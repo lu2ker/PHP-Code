@@ -14,5 +14,5 @@
 
 [ThinkPHP5之SQLI审计分析(三)](https://github.com/lu2ker/Study-notes/blob/main/ThinkPHP5%E4%B9%8BSQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90(%E4%B8%89).md)
 
-[ThinkPHP3之SQLI审计分析(一)]https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP3%E4%B9%8BSQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90.md
+[ThinkPHP3之SQLI审计分析(一)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP3%E4%B9%8BSQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90.md)
 
