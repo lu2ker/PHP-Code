@@ -103,4 +103,14 @@ public function parseKey(Query $query, $key, $strict = false)
 
 不过报错注入的话，再执行的时候就会报错了。但是程序还会将获取到的数据返回到Query->aggregate()方法中的`$result`，，如果这个数据会被打印的话：
 
-（明天再看）
+~~（明天再看）~~
+查询的时候。TP在这里用的是fetchColumn方法
+- 在thinkphp\library\think\db\Connection.php#1297
+PHP手册中这么说：
+(PHP 5 >= 5.1.0, PHP 7, PECL pdo >= 0.9.0)
+PDOStatement::fetchColumn — 从结果集中的下一行返回单独的一列。
+只能获取下一行（也就是数据行的第一行，注意）的数据，而我们想用SELECT MAX(`id`) from users union select user()#联合查询会得到两行结果，user()的结果被放在第二行。所以这时的查询并不会帮我们得到user()
+
+- 尝试改变payload：
+select max(id),(select username from users limit i,1) from users
+能使结果保持在一行了，但是再次看fetchColumn方法：取单独一列，默认为第一列（fetchColumn(1)的话就是取第二列了）。所以说这里基本上只能用报错注入。fetchColumn默认只取第一行第一列。
