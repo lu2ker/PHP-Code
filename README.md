@@ -8,7 +8,8 @@
 
 [ThinkPHP5之SQLI审计分析(一)](https://github.com/lu2ker/Study-notes/blob/main/ThinkPHP5%20%E4%B9%8B%20SQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90.md)
 
-小思考：感觉代码审计就两个步骤，①如何跳过某段代码。②如何进入某段代码。
+小思考：~~感觉代码审计就两个步骤，①如何跳过某段代码。②如何进入某段代码。~~
+代码审计，重在找利用链。
 
 [ThinkPHP5之SQLI审计分析(二)](https://github.com/lu2ker/Study-notes/blob/main/ThinkPHP5%E4%B9%8BSQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90(%E4%BA%8C).md)
 
@@ -17,4 +18,6 @@
 [ThinkPHP5之SQLI审计分析(四)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8BSQLi%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90(%E5%9B%9B).md)
 
 [ThinkPHP3之SQLI审计分析(一)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP3%E4%B9%8BSQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90.md)
+
+[ThinkPHP5之文件包含审计分析(五)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8B%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90(%E4%BA%94).md)
 
