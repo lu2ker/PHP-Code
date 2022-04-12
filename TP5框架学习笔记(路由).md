@@ -54,7 +54,7 @@ class Index
 
 -   如上代码第二行use就是加载类库，调用TP5写好的Request类，其中实现了一些请求方法。
 
-![image-20220411191418823](TP5框架学习笔记.assets/image-20220411191418823.png)
+![image-20220411191418823](https://user-images.githubusercontent.com/68197734/162960699-b0d6bc47-bb6e-4bce-8ce1-fbda7c5205ac.png)
 
 相对应的就是上面代码11行的`Request::instance()->param('name');`即获取客户端传入的参数name
 
@@ -222,9 +222,9 @@ class Blog {
 
 application目录是这个应用的目录，index目录是这个应用的一个模块，其内的controller目录存放的是这个模块的控制器，同理一般modle目录就存放的模型，view目录就放的视图。（这里是单纯的框架所以没有）
 
-![image-20220412183539545](TP5框架学习笔记.assets/image-20220412183539545.png)
+![image-20220412183539545](https://user-images.githubusercontent.com/68197734/162960743-4a639054-c397-42da-a1f1-5ee310f45140.png)
 
-![image-20220412184814572](TP5框架学习笔记.assets/image-20220412184814572.png)
+![image-20220412184814572](https://user-images.githubusercontent.com/68197734/162960757-6fc01d67-0995-435f-9d7f-5ecce818e437.png)
 
 ```php
 #index.php
