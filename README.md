@@ -21,3 +21,7 @@
 
 [ThinkPHP5之文件包含审计分析(五)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8B%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90(%E4%BA%94).md)
 
+在RCE之前，补一补一直没提到的TP框架的知识吧
+
+[TP5框架学习（路由）](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(%E8%B7%AF%E7%94%B1).md)
+
