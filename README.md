@@ -6,7 +6,7 @@
 
 接下来开始学习**七月火**大佬的TP审计分析
 
-[ThinkPHP5之SQLI审计分析(一)](https://github.com/lu2ker/Study-notes/blob/main/ThinkPHP5%20%E4%B9%8B%20SQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90.md)
+[ThinkPHP5之SQLI审计分析(一)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8BSQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90(%E4%B8%80).md)
 
 小思考：~~感觉代码审计就两个步骤，①如何跳过某段代码。②如何进入某段代码。~~
 代码审计，重在找利用链。
