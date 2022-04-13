@@ -25,3 +25,7 @@
 
 [TP5框架学习（路由）](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(%E8%B7%AF%E7%94%B1).md)
 
+[TP5框架学习（请求）](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(%E8%AF%B7%E6%B1%82).md)
+
+这儿有一个[简单的MVC代码案例](https://www.php.cn/php-weizijiaocheng-429302.html)帮助理解
+
