@@ -4,7 +4,7 @@
 
 [不知道该怎么归类的小知识](/不知道该怎么归类的小知识.md)
 
-接下来开始学习**七月火**大佬的TP审计分析
+## 接下来开始学习[七月火](https://github.com/Mochazz/)大佬的TP代码审计
 
 [ThinkPHP5之SQLI审计分析(一)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8BSQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90(%E4%B8%80).md)
 
@@ -21,7 +21,7 @@
 
 [ThinkPHP5之文件包含审计分析(五)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8B%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90(%E4%BA%94).md)
 
-在RCE之前，补一补一直没提到的TP框架的知识吧
+## 在RCE之前，补一补一直没提到的TP框架的知识吧
 
 [TP5框架学习（路由）](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(%E8%B7%AF%E7%94%B1).md)
 
@@ -29,3 +29,4 @@
 
 这儿有一个[简单的MVC代码案例](https://www.php.cn/php-weizijiaocheng-429302.html)帮助理解
 
+[TP5框架学习笔记进阶之Request](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E8%BF%9B%E9%98%B6%E4%B9%8BRequest.md)
