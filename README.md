@@ -21,7 +21,6 @@
 
 [ThinkPHP5之文件包含审计分析(五)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8B%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90(%E4%BA%94).md)
 
-[ThinkPHP5之任意方法调用RCE(六)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8B%E4%BB%BB%E6%84%8F%E6%96%B9%E6%B3%95%E8%B0%83%E7%94%A8RCE(%E5%85%AD).md)
 
 ## 在RCE之前，补一补一直没提到的TP框架的知识吧
 
@@ -32,3 +31,9 @@
 这儿有一个[简单的MVC代码案例](https://www.php.cn/php-weizijiaocheng-429302.html)帮助理解
 
 [TP5框架学习笔记进阶之Request](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E8%BF%9B%E9%98%B6%E4%B9%8BRequest.md)
+
+[TP5框架学习笔记进阶之Contorller](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E8%BF%9B%E9%98%B6%E4%B9%8BContorller.md)
+
+[ThinkPHP5之任意方法调用RCE(六)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8B%E4%BB%BB%E6%84%8F%E6%96%B9%E6%B3%95%E8%B0%83%E7%94%A8RCE(%E5%85%AD).md)
+
+[ThinkPHP5之任意方法调用RCE(七)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B9%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C(%E4%B8%83).md)
