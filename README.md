@@ -4,6 +4,8 @@
 
 [不知道该怎么归类的小知识](/不知道该怎么归类的小知识.md)
 
+[PHP反序列化](https://github.com/lu2ker/PHP-Code/blob/main/PHP%E7%9A%84%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
+
 ## 接下来开始学习[七月火](https://github.com/Mochazz/)大佬的TP代码审计
 
 [ThinkPHP5之SQLI审计分析(一)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8BSQLI%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90(%E4%B8%80).md)
