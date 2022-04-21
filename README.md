@@ -36,6 +36,10 @@
 
 [TP5框架学习笔记进阶之Contorller](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E8%BF%9B%E9%98%B6%E4%B9%8BContorller.md)
 
+## 复现最后三个经典漏洞（TP5马上要完结啦！）
+
 [ThinkPHP5之任意方法调用RCE(六)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8B%E4%BB%BB%E6%84%8F%E6%96%B9%E6%B3%95%E8%B0%83%E7%94%A8RCE(%E5%85%AD).md)
 
 [ThinkPHP5之任意方法调用RCE(七)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B9%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C(%E4%B8%83).md)
+
+[Thinkphp5之反序列化exp编写(八)](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%88%A9%E7%94%A8%E9%93%BE.md)
