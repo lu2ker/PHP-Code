@@ -43,3 +43,6 @@
 [ThinkPHP5之任意方法调用RCE(七)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B9%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C(%E4%B8%83).md)
 
 [Thinkphp5之反序列化exp编写(八)](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%88%A9%E7%94%A8%E9%93%BE.md)
+
+## 收藏一个t00ls上别人总结的SQLi点，感觉并不是很全，之后补充一下
+[分享一下tp框架注入](https://www.t00ls.cc/viewthread.php?tid=65613&highlight=)
