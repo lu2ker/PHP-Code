@@ -29,6 +29,8 @@
 
 [TP5框架学习（请求）](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(%E8%AF%B7%E6%B1%82).md)
 
+[TP5框架学习（杂项）](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(%E6%9D%82%E9%A1%B9).md)
+
 这儿有一个[简单的MVC代码案例](https://www.php.cn/php-weizijiaocheng-429302.html)帮助理解
 
 [TP5框架学习笔记进阶之Request](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E8%BF%9B%E9%98%B6%E4%B9%8BRequest.md)
