@@ -23,8 +23,7 @@
 
 [ThinkPHP5之文件包含审计分析(五)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8B%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E5%AE%A1%E8%AE%A1%E5%88%86%E6%9E%90(%E4%BA%94).md)
 
-
-## 在RCE之前，补一补一直没提到的TP框架的知识吧
+## 补一补一直没提到的TP框架的开发知识吧
 
 [TP5框架学习（路由）](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(%E8%B7%AF%E7%94%B1).md)
 
@@ -36,7 +35,7 @@
 
 [TP5框架学习笔记进阶之Contorller](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E8%BF%9B%E9%98%B6%E4%B9%8BContorller.md)
 
-## 复现最后三个经典漏洞（TP5马上要完结啦！）
+## 复现三个经典RCE漏洞
 
 [ThinkPHP5之任意方法调用RCE(六)](https://github.com/lu2ker/PHP-Code/blob/main/ThinkPHP5%E4%B9%8B%E4%BB%BB%E6%84%8F%E6%96%B9%E6%B3%95%E8%B0%83%E7%94%A8RCE(%E5%85%AD).md)
 
@@ -44,5 +43,6 @@
 
 [Thinkphp5之反序列化exp编写(八)](https://github.com/lu2ker/PHP-Code/blob/main/TP5%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%88%A9%E7%94%A8%E9%93%BE.md)
 
-## 收藏一个t00ls上别人总结的SQLi点，感觉并不是很全，之后补充一下
-[分享一下tp框架注入](https://www.t00ls.cc/viewthread.php?tid=65613&highlight=)
+## 总结
+
+[ThinkPHP利用总结](https://github.com/lu2ker/PHP-Code/blob/main/thinkphp%E6%80%BB%E7%BB%93.md)
