@@ -195,6 +195,8 @@ username[0]=bind&username[1]=0+and(select+extractvalue(1,concat(0x7e,(select+dat
 	$id = I('id', 0, 'intval'); # 这是用了整数过滤器获取参数id
 ```
 
+[开发中容易造成漏洞的写法](https://blog.csdn.net/Fly_hps/article/details/84954830)
+
 ### getshell类
 
 -   [反序列化POC](https://github.com/lu2ker/PHP-Code/blob/main/thinkphp3%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96POC.php)，利用方式为：
