@@ -17,6 +17,28 @@
     -   看控制器方法的写法：类似M(xxxx)这种用一个大写字母来实例化（tp3）
 -   开源的系统可以尝试去该系统的官网or站长下载这类源码站看系统介绍
 
+问题：TP框架审计初始准备？
+
+-   全局搜索THINK_VERSION确定版本
+
+-   检查配置文件：
+    -   是否默认开启debug模式
+    -   是否有定义过滤器 default_filter 
+    -   检查路由配置，是否开启强制路由
+    -   不熟悉建议通读配置文件配置项，都有注释。
+
+-   检查路由配置：
+    -   通常在route.php，了解路由规则写法百度tp5开发手册即可
+    -   改文件通常在application目录下
+
+-   鉴权的几种方式：
+    -   继承鉴权类，通常为Comm命名的
+    -   调用鉴权函数，通常定义在common.php或者function.php
+
+-   确定控制器是否需要渲染模板，如果需要模板但没有则访问报错
+
+
+
 ## thinkphp5
 
 ### 注入类
@@ -79,6 +101,8 @@ $result = db('users')->max($options);
 # 注意有没有直接拼接
 	$id=$this->request->param('id'); # 这里是直接用request->param，默认也没有过滤器。
 	$result = Db::table('users')->where("id=". $id)->find(); # 没有以数组形式传入where导致注入，
+   或者如：
+   	$result = Db::table('users')->where("id = {$id}")->find(); 都是直接拼接没有以数组形式传入where导致注入。
 ```
 
 ### getshell类
