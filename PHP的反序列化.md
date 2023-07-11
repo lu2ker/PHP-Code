@@ -54,5 +54,5 @@ fileinode,filemtime,fileowner,fileperms,
 fopen,is_dir,is_executable,is_file,is_link,is_readable,is_writable,
 is_writeable,parse_ini_file,readfile,stat,unlink,exif_thumbnailexif_imagetype,
 imageloadfontimagecreatefrom,hash_hmac_filehash_filehash_update_filemd5_filesha1_file,
-get_meta_tagsget_headers,getimagesizegetimagesizefromstring,extractTo
+get_meta_tagsget_headers,getimagesize,getimagesizefromstring(很多文章说可以，但实际上是不能的，具体原因可查阅php-src/ext/standard/image.c),extractTo
 ```
